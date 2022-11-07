@@ -44,3 +44,28 @@
 
 ![Screenshot (90)](https://user-images.githubusercontent.com/115516800/200233140-19ee0ba5-b6a1-42c1-b85a-427930f593ce.png)
 
+# Modul praktikum 3
+#Latihan 1
+
+![Screenshot (96)](https://user-images.githubusercontent.com/115516800/200237743-a6590ca9-8fb5-4ca0-8fbc-5656721f0e8c.png)
+
+#Hasilnya
+
+![Screenshot (97)](https://user-images.githubusercontent.com/115516800/200237806-165be9a6-2974-42de-95a9-cc60f621c3a9.png)
+
+#Latihan 2
+
+![Screenshot (98)](https://user-images.githubusercontent.com/115516800/200237891-00908e7c-9937-4d72-94b7-f71401d87845.png)
+
+#Hasilnya
+
+![Screenshot (99)](https://user-images.githubusercontent.com/115516800/200237953-6a21a8ec-b5f6-43fa-895b-1ce20ce5c953.png)
+
+#Latihan 3
+
+![Screenshot (100)](https://user-images.githubusercontent.com/115516800/200238021-798ceafd-3b46-4da5-afc8-299e80afcb64.png)
+
+#Hasilnya
+
+![Screenshot (101)](https://user-images.githubusercontent.com/115516800/200238115-02544110-64d6-4bf6-b90f-894d2a432968.png)
+
